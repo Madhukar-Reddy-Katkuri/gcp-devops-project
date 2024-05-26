@@ -1,2 +1,2 @@
 flask
-python3.10-venv
+
